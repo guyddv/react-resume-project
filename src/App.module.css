@@ -1,0 +1,7 @@
+.resume {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 40% 40%;
+  grid-template-rows: 30%;
+  margin-left: 10%;
+}
